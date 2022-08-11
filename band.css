@@ -1,0 +1,58 @@
+
+
+a{
+        display: block;
+    }
+
+a:link{
+padding: 20px;}
+
+a:hover{color:blue;
+    background-color: lightblue;
+    text-decoration:none;}
+
+a:visited{ color:green;
+    background-color:cyan;}
+
+head,h1{
+        margin:0 auto; padding:8px;
+       text-align: center;
+        background-color: rgb(240,250,240);
+        display: block;
+      }
+html{background-color: rgb(240,250,240);}
+
+.note{
+        line-height: 1.4em;
+        font-family: Trebuchet MS;
+        color: blue;
+        padding: 10px;
+        background-color: rgb(250,250,250);
+      }
+
+ol {
+        background-clip: content-box;
+        padding: 20px;
+        border: 3px black;
+        height: 100 ;
+        width: 100 ;
+
+      }
+      
+h2 {
+        font: italic bold 2em 'Open Sans', serif;
+      }
+      
+img {
+        height: 200px;
+        width: 300px;
+        align-items: center;
+        text-align: center;
+        
+      }
+      
+p {
+        font-size: 20px;
+        font-style: italic;
+        font-family: fantasy;
+      }
